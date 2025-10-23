@@ -52,7 +52,7 @@
   text-align: left;
   font-size: 15px;
 ">
-  <h3>🧠 Administrator Note (Important for Warp Users!)</h3>
+  <h3>📝 Note (For Warp Users!)</h3>
   <p>If you plan to <strong>reset Warp telemetry</strong>, you <strong>must run Wincur as Administrator</strong>.</p>
   <ul>
     <li>💡 <strong>Step 1:</strong> Right-click the executable</li>
