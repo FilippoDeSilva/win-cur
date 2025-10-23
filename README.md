@@ -31,8 +31,7 @@
 ## ✨ Features
 
 - 🔄 **One-click telemetry reset** for Windsurf, Cursor, and Warp  
-- 🧹 **Clean system traces** and session data instantly  
-- 💼 **Professional UI** designed for simplicity and performance  
+- 🧹 **Clean system traces** and session data instantly   
 - 🪶 **Lightweight executable** — no installation required  
 - 🧠 **Intelligent detection** of telemetry endpoints  
 - 🛡️ **Secure operations** — no network access required  
