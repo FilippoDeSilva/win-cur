@@ -14,7 +14,7 @@
 <p align="center">
   <!-- <img src="https://exafunction.github.io/public/brand/windsurf-black-symbol.svg" alt="Windsurf" width="48" height="48" style="border-radius: 12px; margin: 0 8px; box-shadow: 0 0 4px rgba(0,0,0,0.2);"> -->
   <img src="https://images.ctfassets.net/lzny33ho1g45/292nxK13Z1TO0KZxK7jbzS/587fa7b203ca183c9180634956e3aa04/windsurf-vs-cursor-hero.jpg?fm=jpg&q=31&fit=thumb&w=1520&h=760" alt="Cursor" width="100" height="100" style="border-radius: 12px; margin: 0 8px; box-shadow: 0 0 4px rgba(0,0,0,0.2);">
-  <img src="https://pic.macked.app/static/de7031e6fe1c927d222e39770698ef2a-1750826851.webp" alt="Warp" width="48" height="48" style="border-radius: 12px; margin: 0 8px; box-shadow: 0 0 4px rgba(0,0,0,0.2);">
+  <img src="https://pic.macked.app/static/de7031e6fe1c927d222e39770698ef2a-1750826851.webp" alt="Warp" width="50" height="50" style="border-radius: 12px; margin: 0 8px; box-shadow: 0 0 4px rgba(0,0,0,0.2);">
 </p>
 
 ---
