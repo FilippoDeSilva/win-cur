@@ -41,7 +41,7 @@
 
 ## 🚀 Quick Start
 
-<div align="center" style="
+<div style="
   background: linear-gradient(135deg, #0078D6 0%, #00BFFF 100%);
   color: #fff;
   padding: 16px;
