@@ -13,7 +13,7 @@
 
 <p align="center">
   <!-- <img src="https://exafunction.github.io/public/brand/windsurf-black-symbol.svg" alt="Windsurf" width="48" height="48" style="border-radius: 12px; margin: 0 8px; box-shadow: 0 0 4px rgba(0,0,0,0.2);"> -->
-  <img src="https://images.ctfassets.net/lzny33ho1g45/292nxK13Z1TO0KZxK7jbzS/587fa7b203ca183c9180634956e3aa04/windsurf-vs-cursor-hero.jpg?fm=jpg&q=31&fit=thumb&w=1520&h=760" alt="Cursor" width="48" height="48" style="border-radius: 12px; margin: 0 8px; box-shadow: 0 0 4px rgba(0,0,0,0.2);">
+  <img src="https://images.ctfassets.net/lzny33ho1g45/292nxK13Z1TO0KZxK7jbzS/587fa7b203ca183c9180634956e3aa04/windsurf-vs-cursor-hero.jpg?fm=jpg&q=31&fit=thumb&w=1520&h=760" alt="Cursor" width="100" height="100" style="border-radius: 12px; margin: 0 8px; box-shadow: 0 0 4px rgba(0,0,0,0.2);">
   <img src="https://seeklogo.com/images/W/warp-terminal-logo-7B7BDE2E68-seeklogo.com.png" alt="Warp" width="48" height="48" style="border-radius: 12px; margin: 0 8px; box-shadow: 0 0 4px rgba(0,0,0,0.2);">
 </p>
 
