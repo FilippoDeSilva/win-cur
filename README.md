@@ -11,7 +11,6 @@
 *Windsurf • Cursor • Warp*
 
 <p align="center">
-  <!-- <img src="https://exafunction.github.io/public/brand/windsurf-black-symbol.svg" alt="Windsurf" width="48" height="48" style="border-radius: 12px; margin: 0 8px; box-shadow: 0 0 4px rgba(0,0,0,0.2);"> -->
   <img src="https://images.ctfassets.net/lzny33ho1g45/292nxK13Z1TO0KZxK7jbzS/587fa7b203ca183c9180634956e3aa04/windsurf-vs-cursor-hero.jpg?fm=jpg&q=31&fit=thumb&w=1520&h=760" alt="Cursor" width="100" height="100" style="border-radius: 12px; margin: 0 8px; box-shadow: 0 0 4px rgba(0,0,0,0.2);">
   <img src="https://pic.macked.app/static/de7031e6fe1c927d222e39770698ef2a-1750826851.webp" alt="Warp" width="50" height="50" style="border-radius: 12px; margin: 0 8px; box-shadow: 0 0 4px rgba(0,0,0,0.2);">
 </p>
@@ -21,7 +20,6 @@
 ### [📥 Download Latest Release](https://github.com/FilippoDeSilva/win-cur/releases/tag/v1.0.0-prerelease)
 
 <p align="center">
-  <!-- <img src="https://exafunction.github.io/public/brand/windsurf-black-symbol.svg" alt="Windsurf" width="48" height="48" style="border-radius: 12px; margin: 0 8px; box-shadow: 0 0 4px rgba(0,0,0,0.2);"> -->
   <img src="https://images.ctfassets.net/lzny33ho1g45/292nxK13Z1TO0KZxK7jbzS/587fa7b203ca183c9180634956e3aa04/windsurf-vs-cursor-hero.jpg?fm=jpg&q=31&fit=thumb&w=1520&h=760" alt="Cursor" width="100" height="100" style="border-radius: 12px; margin: 0 8px; box-shadow: 0 0 4px rgba(0,0,0,0.2);">
   <img src="https://pic.macked.app/static/de7031e6fe1c927d222e39770698ef2a-1750826851.webp" alt="Warp" width="50" height="50" style="border-radius: 12px; margin: 0 8px; box-shadow: 0 0 4px rgba(0,0,0,0.2);">
 </p>
@@ -43,15 +41,25 @@
 
 ## 🚀 Quick Start
 
-📝 Administrator Note (Important for Warp Users!)
-If you plan to reset Warp telemetry, you must run Wincur as Administrator.
-💡 To do this:
-
-1. "Right-click the executable"
-
-2. "Choose “Run as administrator"
-
-3. "Then proceed normally"
+<div align="center" style="
+  background: linear-gradient(135deg, #0078D6 0%, #00BFFF 100%);
+  color: #fff;
+  padding: 16px;
+  border-radius: 12px;
+  width: 80%;
+  box-shadow: 0 0 8px rgba(0,0,0,0.2);
+  margin: 20px auto;
+  text-align: left;
+  font-size: 15px;
+">
+  <h3>🧠 Administrator Note (Important for Warp Users!)</h3>
+  <p>If you plan to <strong>reset Warp telemetry</strong>, you <strong>must run Wincur as Administrator</strong>.</p>
+  <ul>
+    <li>💡 <strong>Step 1:</strong> Right-click the executable</li>
+    <li>⚙️ <strong>Step 2:</strong> Choose <em>“Run as administrator”</em></li>
+    <li>🚀 <strong>Step 3:</strong> Proceed normally</li>
+  </ul>
+</div>
 
 <div align="center">
 
