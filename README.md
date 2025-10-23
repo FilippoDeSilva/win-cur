@@ -5,7 +5,6 @@
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge)](https://github.com/FilippoDeSilva/win-cur/releases/tag/v1.0.0-prerelease)
 [![Platform](https://img.shields.io/badge/platform-Windows-0078D6?style=for-the-badge&logo=windows)](https://github.com/FilippoDeSilva/win-cur)
-[![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.7+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 **A Windows application for resetting telemetry data**  
