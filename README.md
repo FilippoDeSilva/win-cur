@@ -8,7 +8,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.7+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
-**A professional Windows application for resetting telemetry data**  
+**A Windows application for resetting telemetry data**  
 *Windsurf • Cursor • Warp*
 
 <p align="center">
@@ -22,9 +22,9 @@
 ### [📥 Download Latest Release](https://github.com/FilippoDeSilva/win-cur/releases/tag/v1.0.0-prerelease)
 
 <p align="center">
-  <img src="https://exafunction.github.io/public/brand/windsurf-black-symbol.svg" width="64" height="64" style="border-radius: 12px; margin: 8px; box-shadow: 0 0 6px rgba(0,0,0,0.1);">
-  <img src="https://cdn-icons-png.flaticon.com/512/32/32179.png" width="64" height="64" style="border-radius: 12px; margin: 8px; box-shadow: 0 0 6px rgba(0,0,0,0.1);">
-  <img src="https://seeklogo.com/images/W/warp-terminal-logo-7B7BDE2E68-seeklogo.com.png" width="64" height="64" style="border-radius: 12px; margin: 8px; box-shadow: 0 0 6px rgba(0,0,0,0.1);">
+  <!-- <img src="https://exafunction.github.io/public/brand/windsurf-black-symbol.svg" alt="Windsurf" width="48" height="48" style="border-radius: 12px; margin: 0 8px; box-shadow: 0 0 4px rgba(0,0,0,0.2);"> -->
+  <img src="https://images.ctfassets.net/lzny33ho1g45/292nxK13Z1TO0KZxK7jbzS/587fa7b203ca183c9180634956e3aa04/windsurf-vs-cursor-hero.jpg?fm=jpg&q=31&fit=thumb&w=1520&h=760" alt="Cursor" width="100" height="100" style="border-radius: 12px; margin: 0 8px; box-shadow: 0 0 4px rgba(0,0,0,0.2);">
+  <img src="https://pic.macked.app/static/de7031e6fe1c927d222e39770698ef2a-1750826851.webp" alt="Warp" width="50" height="50" style="border-radius: 12px; margin: 0 8px; box-shadow: 0 0 4px rgba(0,0,0,0.2);">
 </p>
 
 </div>
