@@ -17,7 +17,7 @@
 
 ---
 
-### [📥 Download Latest Release](https://github.com/FilippoDeSilva/wincur/releases/latest)
+### [📥 Download Latest Release](https://github.com/FilippoDeSilva/win-cur/releases/tag/v1.0.0-prerelease)
 
 <img src="assets/windsurf.jpg" width="80" style="border-radius: 50%; margin: 10px;">
 <img src="assets/cursor.jpg" width="80" style="border-radius: 50%; margin: 10px;">
