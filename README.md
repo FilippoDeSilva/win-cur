@@ -1,2 +1,15 @@
-# win-cur
-A telemetry reset tool for Windsurf, Cursor, and Warp with modern GUI
+# 🎯 Wincur - A Telemetry Reset Tool
+<div align="center">
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Platform](https://img.shields.io/badge/platform-Windows-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Python](https://img.shields.io/badge/python-3.7+-blue)
+**A professional Windows application for resetting telemetry data in Windsurf, Cursor, and Warp**
+[Download](https://github.com/FilippoDeSilva/wincur/releases)
+</div>
+---
+## ✨ Features
+- 🌀 **Windsurf** - Update telemetry and reset trial
+- 💻 **Cursor** - Update telemetry and reset trial
+- 🚀 **Warp** - Reset machine identity
+- 🎨 **Modern UI** - Beautiful dark theme with custom icons
