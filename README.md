@@ -11,44 +11,20 @@
 **A professional Windows application for resetting telemetry data**  
 *Windsurf • Cursor • Warp*
 
-<img src="https://img.shields.io/badge/🌀_Windsurf-Reset-00d4ff?style=flat-square" alt="Windsurf">
-<img src="https://img.shields.io/badge/💻_Cursor-Reset-00d4ff?style=flat-square" alt="Cursor">
-<img src="https://images.prismic.io/sacra/aLY4umGNHVfTOgbq_logo_www.warp.dev_1756772538115.jpeg?auto=format,compress" alt="Warp">
+<p align="center">
+  <img src="https://exafunction.github.io/public/brand/windsurf-black-symbol.svg" alt="Windsurf" width="48" height="48" style="border-radius: 12px; margin: 0 8px; box-shadow: 0 0 4px rgba(0,0,0,0.2);">
+  <img src="https://freeappsai.com/wp-content/uploads/2024/04/Cursor-1.png" alt="Cursor" width="48" height="48" style="border-radius: 12px; margin: 0 8px; box-shadow: 0 0 4px rgba(0,0,0,0.2);">
+  <img src="https://images.prismic.io/sacra/aLY4umGNHVfTOgbq_logo_www.warp.dev_1756772538115.jpeg?auto=format,compress" alt="Warp" width="48" height="48" style="border-radius: 12px; margin: 0 8px; box-shadow: 0 0 4px rgba(0,0,0,0.2);">
+</p>
 
 ---
 
 ### [📥 Download Latest Release](https://github.com/FilippoDeSilva/win-cur/releases/tag/v1.0.0-prerelease)
 
-<img src="assets/windsurf.jpg" width="80" style="border-radius: 50%; margin: 10px;">
-<img src="assets/cursor.jpg" width="80" style="border-radius: 50%; margin: 10px;">
-<img src="assets/warp.jpg" width="80" style="border-radius: 50%; margin: 10px;">
+<p align="center">
+  <img src="assets/windsurf.jpg" width="64" height="64" style="border-radius: 12px; margin: 8px; box-shadow: 0 0 6px rgba(0,0,0,0.1);">
+  <img src="assets/cursor.jpg" width="64" height="64" style="border-radius: 12px; margin: 8px; box-shadow: 0 0 6px rgba(0,0,0,0.1);">
+  <img src="assets/warp.jpg" width="64" height="64" style="border-radius: 12px; margin: 8px; box-shadow: 0 0 6px rgba(0,0,0,0.1);">
+</p>
 
 </div>
-
----
-
-## ✨ Features
-
-- 🔄 **One-click telemetry reset** for Windsurf, Cursor, and Warp  
-- 🧹 **Clean system traces** and session data instantly  
-- 💼 **Professional UI** designed for simplicity and performance  
-- 🪶 **Lightweight executable** — no installation required  
-- 🧠 **Intelligent detection** of telemetry endpoints  
-- 🛡️ **Secure operations** — no network access required  
-
----
-
-## 🚀 Quick Start
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[📥 Download] --> B[▶️ Run]
-    B --> C[🖱️ Choose Tool]
-    C --> D[✅ Done!]
-
-    style A fill:#00d4ff,stroke:#333,stroke-width:2px,color:#000
-    style B fill:#00d4ff,stroke:#333,stroke-width:2px,color:#000
-    style C fill:#00d4ff,stroke:#333,stroke-width:2px,color:#000
-    style D fill:#4CAF50,stroke:#333,stroke-width:2px,color:#000
