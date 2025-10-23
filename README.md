@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🎯 Wincur  
-### **Professional Telemetry Reset Tool**
+### **Telemetry Reset Tool**
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge)](https://github.com/FilippoDeSilva/wincur/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows-0078D6?style=for-the-badge&logo=windows)](https://github.com/FilippoDeSilva/wincur)
@@ -13,7 +13,7 @@
 
 <img src="https://img.shields.io/badge/🌀_Windsurf-Reset-00d4ff?style=flat-square" alt="Windsurf">
 <img src="https://img.shields.io/badge/💻_Cursor-Reset-00d4ff?style=flat-square" alt="Cursor">
-<img src="https://img.shields.io/badge/🚀_Warp-Reset-00d4ff?style=flat-square" alt="Warp">
+<img src="https://images.prismic.io/sacra/aLY4umGNHVfTOgbq_logo_www.warp.dev_1756772538115.jpeg?auto=format,compress" alt="Warp">
 
 ---
 
