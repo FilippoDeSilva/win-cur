@@ -43,6 +43,16 @@
 
 ## 🚀 Quick Start
 
+📝 Administrator Note (Important for Warp Users!)
+If you plan to reset Warp telemetry, you must run Wincur as Administrator.
+💡 To do this:
+
+1. "Right-click the executable"
+
+2. "Choose “Run as administrator"
+
+3. "Then proceed normally"
+
 <div align="center">
 
 ```mermaid
