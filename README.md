@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
 # 🎯 Wincur  
@@ -72,3 +74,4 @@ graph LR
     style B fill:#00d4ff,stroke:#333,stroke-width:2px,color:#000
     style C fill:#00d4ff,stroke:#333,stroke-width:2px,color:#000
     style D fill:#4CAF50,stroke:#333,stroke-width:2px,color:#000
+```
